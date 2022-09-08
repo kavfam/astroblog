@@ -2,7 +2,7 @@
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 
-> 🧑‍🚀 **Ben Travesey ASTROnaut Tutorial!
+> 🧑‍🚀 **Ben Traversy ASTROnaut Tutorial!
 
 ## 🚀 Blogs made Simple ..
 
