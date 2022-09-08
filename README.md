@@ -4,10 +4,7 @@
 
 > 🧑‍🚀 **Ben Travesey ASTROnaut Tutorial!
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
-
-
-## 🚀 Glogs made Simple ..
+## 🚀 Blogs made Simple ..
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name. In `src/components/` you can place any  Astro/React/Vue/Svelte/Preact components. Static assets are in the `public/` directory.
 
@@ -26,4 +23,4 @@ Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page
 
 ## 👀 Want to learn more Astro?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Check [Astro documentation](https://docs.astro.build) or jump into Astro [Discord server](https://astro.build/chat).
